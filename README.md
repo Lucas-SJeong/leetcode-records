@@ -17,12 +17,14 @@ leetcode records
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
 ## Backtracking
@@ -38,6 +40,7 @@ leetcode records
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 ## Union-Find
 |  |
 | ------- |
