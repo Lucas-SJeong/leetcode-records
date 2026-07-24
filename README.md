@@ -64,4 +64,8 @@ leetcode records
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
