@@ -14,6 +14,7 @@ leetcode records
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -87,4 +88,8 @@ leetcode records
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
