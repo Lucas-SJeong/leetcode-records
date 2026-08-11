@@ -42,6 +42,7 @@ leetcode records
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 ## Math
@@ -50,6 +51,7 @@ leetcode records
 | [0009-palindrome-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
@@ -99,5 +101,6 @@ leetcode records
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
