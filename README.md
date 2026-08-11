@@ -41,12 +41,14 @@ leetcode records
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -92,4 +94,8 @@ leetcode records
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
