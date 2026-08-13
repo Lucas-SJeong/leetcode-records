@@ -43,6 +43,7 @@ leetcode records
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
@@ -115,6 +116,7 @@ leetcode records
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0338-counting-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
