@@ -53,6 +53,7 @@ leetcode records
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -96,6 +97,7 @@ leetcode records
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -112,6 +114,7 @@ leetcode records
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
