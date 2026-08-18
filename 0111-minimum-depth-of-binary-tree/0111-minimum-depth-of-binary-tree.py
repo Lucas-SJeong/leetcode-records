@@ -13,15 +13,14 @@ class Solution(object):
         if (root.left is None) and (root.right is None):
             return 1
 
-
-        return min(self.depth(root.left,sum),self.depth(root.right,sum))
+        return self.depth(root,sum)
         
     def depth(self,root,sum):
         
         if not root:
             return float('inf')
         if (root.left is None) and (root.right is None):
-            return sum+1
+            return sum
 
 
         sum += 1
