@@ -10,12 +10,10 @@ class Solution(object):
         sum = 1
         if not root:
             return 0
-        if (root.left is None) and (root.right is None):
-            return 1
-
         return self.depth(root,sum)
         
     def depth(self,root,sum):
+        
         
         if not root:
             return float('inf')
