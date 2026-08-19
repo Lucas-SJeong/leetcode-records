@@ -125,23 +125,27 @@ leetcode records
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
