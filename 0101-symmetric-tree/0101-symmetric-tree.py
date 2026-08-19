@@ -10,9 +10,6 @@ class Solution(object):
         arr1 = []
         self.postorder(root.left,arr)
         self.preorder(root.right,arr1)
-
-        print(arr)
-        print(arr1)
         return arr==arr1
 
     def preorder(self,root,arr):
