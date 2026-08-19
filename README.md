@@ -125,10 +125,12 @@ leetcode records
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -137,5 +139,6 @@ leetcode records
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
