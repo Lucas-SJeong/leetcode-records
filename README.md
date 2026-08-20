@@ -129,6 +129,7 @@ leetcode records
 | [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ leetcode records
 | [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,4 +151,9 @@ leetcode records
 | [0110-balanced-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
