@@ -13,8 +13,7 @@ class Solution(object):
             if not root:
                 return
 
-            if (not root.left) and (not root.right):
-                return
+    
             
             invert(root.left)
             invert(root.right)
