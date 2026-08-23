@@ -135,6 +135,7 @@ leetcode records
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,6 +148,7 @@ leetcode records
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -168,8 +170,17 @@ leetcode records
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
