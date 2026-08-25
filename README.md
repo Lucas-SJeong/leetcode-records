@@ -135,6 +135,7 @@ leetcode records
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
@@ -149,6 +150,7 @@ leetcode records
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
@@ -160,6 +162,7 @@ leetcode records
 | [0112-path-sum](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Binary Tree
 |  |
@@ -173,6 +176,7 @@ leetcode records
 | [0226-invert-binary-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
