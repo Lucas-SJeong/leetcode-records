@@ -137,6 +137,7 @@ leetcode records
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Depth-First Search
@@ -153,6 +154,7 @@ leetcode records
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Breadth-First Search
@@ -181,12 +183,14 @@ leetcode records
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0623-add-one-row-to-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0538-convert-bst-to-greater-tree) |
 ## String Matching
 |  |
 | ------- |
