@@ -10,6 +10,7 @@ leetcode records
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
+| [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ leetcode records
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
