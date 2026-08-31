@@ -8,6 +8,7 @@ leetcode records
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
@@ -17,6 +18,7 @@ leetcode records
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
@@ -28,6 +30,7 @@ leetcode records
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -61,6 +64,7 @@ leetcode records
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -123,6 +127,7 @@ leetcode records
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0338-counting-bits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -208,5 +213,6 @@ leetcode records
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
