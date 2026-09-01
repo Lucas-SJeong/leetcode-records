@@ -21,6 +21,7 @@ leetcode records
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0374-guess-number-higher-or-lower) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
@@ -117,6 +118,7 @@ leetcode records
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0374-guess-number-higher-or-lower) |
 ## Memoization
 |  |
 | ------- |
