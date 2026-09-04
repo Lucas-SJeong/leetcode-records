@@ -5,7 +5,6 @@ class Solution:
         for num in arr:
             if (num%2 == 0):
                 copy = arr[:counter] + arr[counter+1:]
-                print(copy)
                 target = num/2
                 left,right = 0,len(copy)-1
                 while (left<=right):
