@@ -8,6 +8,7 @@ leetcode records
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -21,6 +22,7 @@ leetcode records
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
@@ -228,4 +230,12 @@ leetcode records
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
