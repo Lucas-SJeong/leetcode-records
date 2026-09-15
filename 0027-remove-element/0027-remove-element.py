@@ -24,8 +24,6 @@ class Solution:
             else:
                 ptr1+=1
 
-        print(nums)
-
 
         if ptr1==0:
             return 0
