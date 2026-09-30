@@ -20,6 +20,7 @@ leetcode records
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -56,6 +57,7 @@ leetcode records
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
@@ -97,6 +99,7 @@ leetcode records
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Union-Find
 |  |
@@ -278,6 +281,7 @@ leetcode records
 ## Sliding Window
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -285,4 +289,8 @@ leetcode records
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
