@@ -15,6 +15,7 @@ leetcode records
 | [0088-merge-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
@@ -55,6 +56,7 @@ leetcode records
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -262,6 +264,7 @@ leetcode records
 | ------- |
 | [0075-sort-colors](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -271,6 +274,7 @@ leetcode records
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -295,9 +299,14 @@ leetcode records
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
