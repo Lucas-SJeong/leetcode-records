@@ -13,6 +13,7 @@ leetcode records
 | [0074-search-a-2d-matrix](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ leetcode records
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
