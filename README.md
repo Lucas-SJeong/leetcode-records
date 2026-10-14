@@ -19,6 +19,7 @@ leetcode records
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
@@ -105,6 +106,7 @@ leetcode records
 | [0012-integer-to-roman](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
@@ -153,6 +155,7 @@ leetcode records
 | [0088-merge-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
