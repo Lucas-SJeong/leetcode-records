@@ -24,6 +24,7 @@ leetcode records
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
@@ -324,6 +325,7 @@ leetcode records
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0238-product-of-array-except-self) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
