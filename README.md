@@ -85,6 +85,7 @@ leetcode records
 | [0020-valid-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -162,6 +163,7 @@ leetcode records
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
