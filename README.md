@@ -13,6 +13,7 @@ leetcode records
 | [0035-search-insert-position](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -87,6 +88,7 @@ leetcode records
 | [0022-generate-parentheses](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -205,6 +207,7 @@ leetcode records
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0068-text-justification) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
