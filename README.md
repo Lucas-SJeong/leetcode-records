@@ -91,6 +91,7 @@ leetcode records
 | [0068-text-justification](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -110,6 +111,7 @@ leetcode records
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
@@ -178,6 +180,7 @@ leetcode records
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
