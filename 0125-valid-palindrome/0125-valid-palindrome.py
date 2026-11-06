@@ -7,8 +7,6 @@ class Solution:
                 processedS+=char
             elif (ord(char) >= 48 and ord(char) <= 57):
                 processedS+=char
-
-        print(processedS)
         
         for i in range(len(processedS)//2):
             if processedS[i] != processedS[len(processedS)-1-i]:
