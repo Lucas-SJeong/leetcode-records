@@ -9,13 +9,11 @@ class Solution:
         while (hNum!=1):
 
             strNum = str(hNum)
-
+            hNum = 0
             for x in strNum:
-                temp += int(x)**2
+                hNum += int(x)**2
               
-            hNum = temp
             ans.append(hNum)
-            temp = 0
     
             if flag == True:
                 slow += 1
