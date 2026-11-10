@@ -28,6 +28,7 @@ leetcode records
 | [0238-product-of-array-except-self](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -181,6 +182,7 @@ leetcode records
 | [0189-rotate-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
