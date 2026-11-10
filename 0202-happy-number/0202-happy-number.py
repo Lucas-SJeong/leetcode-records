@@ -3,7 +3,6 @@ class Solution:
         slow = -1
         fast = -1
         hNum = n
-        temp = 0
         ans = []
         flag = False
         while (hNum!=1):
