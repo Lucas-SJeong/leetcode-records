@@ -11,7 +11,7 @@ class Solution:
             strNum = str(hNum)
 
             for x in strNum:
-                temp += int(x)*int(x)
+                temp += int(x)**2
               
             hNum = temp
             ans.append(hNum)
