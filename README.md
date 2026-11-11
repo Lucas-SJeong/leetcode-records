@@ -93,6 +93,7 @@ leetcode records
 | [0068-text-justification](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -183,6 +184,7 @@ leetcode records
 | [0202-happy-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
