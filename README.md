@@ -99,6 +99,7 @@ leetcode records
 | [0696-count-binary-substrings](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0917-reverse-only-letters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
@@ -197,6 +198,7 @@ leetcode records
 | [0876-middle-of-the-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
@@ -306,6 +308,7 @@ leetcode records
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0572-subtree-of-another-tree) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
