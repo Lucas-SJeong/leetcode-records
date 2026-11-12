@@ -95,6 +95,7 @@ leetcode records
 | [0151-reverse-words-in-a-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -188,6 +189,7 @@ leetcode records
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
