@@ -38,6 +38,7 @@ leetcode records
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -76,6 +77,7 @@ leetcode records
 | [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -200,6 +202,7 @@ leetcode records
 | [0917-reverse-only-letters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0917-reverse-only-letters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Recursion
@@ -327,6 +330,7 @@ leetcode records
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 ## Divide and Conquer
 |  |
 | ------- |
