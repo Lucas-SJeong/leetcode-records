@@ -41,6 +41,7 @@ leetcode records
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ leetcode records
 | [1137-n-th-tribonacci-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
