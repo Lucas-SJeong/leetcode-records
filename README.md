@@ -33,6 +33,7 @@ leetcode records
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0746-min-cost-climbing-stairs) |
+| [1089-duplicate-zeros](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
@@ -202,6 +203,7 @@ leetcode records
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0917-reverse-only-letters) |
+| [1089-duplicate-zeros](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
