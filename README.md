@@ -104,6 +104,7 @@ leetcode records
 | [0696-count-binary-substrings](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0696-count-binary-substrings) |
 | [0838-push-dominoes](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0838-push-dominoes) |
 | [0917-reverse-only-letters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0917-reverse-only-letters) |
+| [1332-remove-palindromic-subsequences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -204,6 +205,7 @@ leetcode records
 | [0876-middle-of-the-linked-list](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0917-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
