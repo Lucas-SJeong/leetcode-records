@@ -38,6 +38,7 @@ leetcode records
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
@@ -63,6 +64,7 @@ leetcode records
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Lucas-SJeong/leetcode-records/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -212,6 +214,7 @@ leetcode records
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
