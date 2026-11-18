@@ -36,6 +36,7 @@ leetcode records
 | [1089-duplicate-zeros](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1539-kth-missing-positive-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -210,6 +211,7 @@ leetcode records
 | [1332-remove-palindromic-subsequences](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1332-remove-palindromic-subsequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2540-minimum-common-value) |
@@ -337,6 +339,7 @@ leetcode records
 | [0349-intersection-of-two-arrays](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lucas-SJeong/leetcode-records/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Lucas-SJeong/leetcode-records/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Lucas-SJeong/leetcode-records/tree/master/2465-number-of-distinct-averages) |
